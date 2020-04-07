@@ -9,6 +9,7 @@ Python: 21us<br>
 Rust: 11us<br>
 <h4>Only Rust</h4><br>
 Rust: 7us<br>
+
 ```
 cargo build --release
 pytest
